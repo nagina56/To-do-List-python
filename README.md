@@ -38,3 +38,10 @@ This project is created for practice and to improve basic Python programming ski
 
 # Author
 Nageen Azhar 
+
+# Screenshot:
+![Screenshot To_Do_List]
+(Screenshot_To_Do_List.png)
+
+<img width="294" height="452" alt="Screenshot_To_Do_List" src="https://github.com/user-attachments/assets/2309dcc4-1268-4cf1-80bc-fb9eed17648a" />
+
